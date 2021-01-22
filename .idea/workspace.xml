@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4162cc6f-495f-49f2-b95b-c58a3226bae7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Watermelon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Watermelon.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,21 +16,21 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
+        <entry file="file://$PROJECT_DIR$/src/Watermelon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="405">
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Watermelon.java">
+        <entry file="file://$PROJECT_DIR$/src/TooLongWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="1" lean-forward="true" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="324">
+              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -50,12 +50,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Watermelon.java" />
         <option value="$PROJECT_DIR$/src/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/Watermelon.java" />
+        <option value="$PROJECT_DIR$/src/TooLongWords.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="40" />
     <option name="width" value="1400" />
@@ -108,9 +109,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Watermelon">
+  <component name="RunManager" selected="Application.TooLongWords">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="CompetitiveProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TooLongWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TooLongWords" />
       <module name="CompetitiveProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -125,6 +133,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TooLongWords" />
         <item itemvalue="Application.Watermelon" />
         <item itemvalue="Application.HelloWorld" />
       </list>
@@ -155,7 +164,7 @@
       <window_info anchor="bottom" id="Messages" order="1" weight="0.3488132" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3296146" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Run" internal_type="SLIDING" order="4" visible="true" weight="0.29411766" />
+      <window_info anchor="bottom" id="Run" internal_type="SLIDING" order="4" weight="0.29411766" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.34984833" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
@@ -196,17 +205,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
+    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java" />
+    <entry file="file://$PROJECT_DIR$/src/Watermelon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="405">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Watermelon.java">
+    <entry file="file://$PROJECT_DIR$/src/TooLongWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="1" lean-forward="true" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="324">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>

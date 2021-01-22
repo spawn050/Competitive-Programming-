@@ -9,7 +9,7 @@ public class Watermelon
         int weight;
         weight = input.nextInt();
 
-        if(weight % 2 == 0)
+        if(weight % 2 == 0 && weight != 2 && weight != 0)
             System.out.println("YES");
         else
             System.out.println("NO");
